@@ -36,7 +36,7 @@ First, download any one of the above datasets and put in a directory named “tr
 
 Make a new python file train.py and paste the code described in following steps:
 
-1. Imports:
+1. Imports.
 2. Initialize directory path variable and describe a function to process and store video frames.
 3. Extract frames from video and call store function.
 4. Store the store_image list in a numpy file “training.npy”.
