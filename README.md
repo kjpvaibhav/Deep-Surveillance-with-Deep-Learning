@@ -14,7 +14,7 @@ For this video surveillance project, we will introduce a spatio temporal autoenc
 ## The dataset for abnormal event detection in video surveillance:
 Following are the comprehensive datasets that are used to train models for anomaly detection tasks.
 
-##CUHK Avenue Dataset:
+## CUHK Avenue Dataset:
 This dataset contains 16 training and 21 testing video clips. The video contains 30652 frames in total.
 
 The training videos contain video with normal situations. The testing videos contain videos with both standard and abnormal events.
